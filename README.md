@@ -30,13 +30,14 @@ Through **collaboration**, **education**, and **open-source development**, I aim
 
 | Area                  | Experience Level       |
 |-----------------------|------------------------|
-| **PowerOn (Symitar)** | 🧠 Expert               |
+| **PowerOn (Symitar)** | 🧠 Advanced / Expert    |
 | JavaScript (modern)   | 🧠 Conceptual fluency   |
 | HTML & CSS            | 🧠 Intermediate         |
-| API Integrations      | 🧠 Strong (Banno, SymXchange) |
+| API Integrations      | 🧠 Intermediate (Banno, SymXchange) |
 | Cloud/Hosting         | 🧠 AWS Amplify, Firebase |
 | Git & GitHub          | 🧠 Daily Workflow       |
 | Web Frameworks        | 🧠 Learning React, Tailwind, Bootstrap |
+| Microsoft Power Automate | 🧠 Advanced       |
 
 I stay current with tools like **LLMs, Copilot, VS Code AI tools,** and other developer accelerators.
 
